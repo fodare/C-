@@ -1,0 +1,12 @@
+/media/damilare/Data/Personal-Development/C#/IntroToCSharp/OOP/StringLibrary/bin/Debug/net6.0/StringLibrary.deps.json
+/media/damilare/Data/Personal-Development/C#/IntroToCSharp/OOP/StringLibrary/bin/Debug/net6.0/StringLibrary.dll
+/media/damilare/Data/Personal-Development/C#/IntroToCSharp/OOP/StringLibrary/bin/Debug/net6.0/StringLibrary.pdb
+/media/damilare/Data/Personal-Development/C#/IntroToCSharp/OOP/StringLibrary/obj/Debug/net6.0/StringLibrary.csproj.AssemblyReference.cache
+/media/damilare/Data/Personal-Development/C#/IntroToCSharp/OOP/StringLibrary/obj/Debug/net6.0/StringLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/media/damilare/Data/Personal-Development/C#/IntroToCSharp/OOP/StringLibrary/obj/Debug/net6.0/StringLibrary.AssemblyInfoInputs.cache
+/media/damilare/Data/Personal-Development/C#/IntroToCSharp/OOP/StringLibrary/obj/Debug/net6.0/StringLibrary.AssemblyInfo.cs
+/media/damilare/Data/Personal-Development/C#/IntroToCSharp/OOP/StringLibrary/obj/Debug/net6.0/StringLibrary.csproj.CoreCompileInputs.cache
+/media/damilare/Data/Personal-Development/C#/IntroToCSharp/OOP/StringLibrary/obj/Debug/net6.0/StringLibrary.dll
+/media/damilare/Data/Personal-Development/C#/IntroToCSharp/OOP/StringLibrary/obj/Debug/net6.0/refint/StringLibrary.dll
+/media/damilare/Data/Personal-Development/C#/IntroToCSharp/OOP/StringLibrary/obj/Debug/net6.0/StringLibrary.pdb
+/media/damilare/Data/Personal-Development/C#/IntroToCSharp/OOP/StringLibrary/obj/Debug/net6.0/ref/StringLibrary.dll

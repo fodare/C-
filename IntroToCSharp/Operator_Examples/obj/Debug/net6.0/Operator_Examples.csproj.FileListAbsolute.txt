@@ -1,0 +1,15 @@
+/media/damilare/Data/Personal-Development/C#/IntroToCSharp/Operator_Examples/obj/Debug/net6.0/Operator_Examples.csproj.AssemblyReference.cache
+/media/damilare/Data/Personal-Development/C#/IntroToCSharp/Operator_Examples/obj/Debug/net6.0/Operator_Examples.GeneratedMSBuildEditorConfig.editorconfig
+/media/damilare/Data/Personal-Development/C#/IntroToCSharp/Operator_Examples/obj/Debug/net6.0/Operator_Examples.AssemblyInfoInputs.cache
+/media/damilare/Data/Personal-Development/C#/IntroToCSharp/Operator_Examples/obj/Debug/net6.0/Operator_Examples.AssemblyInfo.cs
+/media/damilare/Data/Personal-Development/C#/IntroToCSharp/Operator_Examples/obj/Debug/net6.0/Operator_Examples.csproj.CoreCompileInputs.cache
+/media/damilare/Data/Personal-Development/C#/IntroToCSharp/Operator_Examples/bin/Debug/net6.0/Operator_Examples
+/media/damilare/Data/Personal-Development/C#/IntroToCSharp/Operator_Examples/bin/Debug/net6.0/Operator_Examples.deps.json
+/media/damilare/Data/Personal-Development/C#/IntroToCSharp/Operator_Examples/bin/Debug/net6.0/Operator_Examples.runtimeconfig.json
+/media/damilare/Data/Personal-Development/C#/IntroToCSharp/Operator_Examples/bin/Debug/net6.0/Operator_Examples.dll
+/media/damilare/Data/Personal-Development/C#/IntroToCSharp/Operator_Examples/bin/Debug/net6.0/Operator_Examples.pdb
+/media/damilare/Data/Personal-Development/C#/IntroToCSharp/Operator_Examples/obj/Debug/net6.0/Operator_Examples.dll
+/media/damilare/Data/Personal-Development/C#/IntroToCSharp/Operator_Examples/obj/Debug/net6.0/refint/Operator_Examples.dll
+/media/damilare/Data/Personal-Development/C#/IntroToCSharp/Operator_Examples/obj/Debug/net6.0/Operator_Examples.pdb
+/media/damilare/Data/Personal-Development/C#/IntroToCSharp/Operator_Examples/obj/Debug/net6.0/Operator_Examples.genruntimeconfig.cache
+/media/damilare/Data/Personal-Development/C#/IntroToCSharp/Operator_Examples/obj/Debug/net6.0/ref/Operator_Examples.dll

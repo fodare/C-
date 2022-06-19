@@ -1,0 +1,15 @@
+/media/damilare/Data/Personal-Development/C#/IntroToCSharp/Control_Statements/bin/Debug/net6.0/Control_Statements
+/media/damilare/Data/Personal-Development/C#/IntroToCSharp/Control_Statements/bin/Debug/net6.0/Control_Statements.deps.json
+/media/damilare/Data/Personal-Development/C#/IntroToCSharp/Control_Statements/bin/Debug/net6.0/Control_Statements.runtimeconfig.json
+/media/damilare/Data/Personal-Development/C#/IntroToCSharp/Control_Statements/bin/Debug/net6.0/Control_Statements.dll
+/media/damilare/Data/Personal-Development/C#/IntroToCSharp/Control_Statements/bin/Debug/net6.0/Control_Statements.pdb
+/media/damilare/Data/Personal-Development/C#/IntroToCSharp/Control_Statements/obj/Debug/net6.0/Control_Statements.csproj.AssemblyReference.cache
+/media/damilare/Data/Personal-Development/C#/IntroToCSharp/Control_Statements/obj/Debug/net6.0/Control_Statements.GeneratedMSBuildEditorConfig.editorconfig
+/media/damilare/Data/Personal-Development/C#/IntroToCSharp/Control_Statements/obj/Debug/net6.0/Control_Statements.AssemblyInfoInputs.cache
+/media/damilare/Data/Personal-Development/C#/IntroToCSharp/Control_Statements/obj/Debug/net6.0/Control_Statements.AssemblyInfo.cs
+/media/damilare/Data/Personal-Development/C#/IntroToCSharp/Control_Statements/obj/Debug/net6.0/Control_Statements.csproj.CoreCompileInputs.cache
+/media/damilare/Data/Personal-Development/C#/IntroToCSharp/Control_Statements/obj/Debug/net6.0/Control_Statements.dll
+/media/damilare/Data/Personal-Development/C#/IntroToCSharp/Control_Statements/obj/Debug/net6.0/refint/Control_Statements.dll
+/media/damilare/Data/Personal-Development/C#/IntroToCSharp/Control_Statements/obj/Debug/net6.0/Control_Statements.pdb
+/media/damilare/Data/Personal-Development/C#/IntroToCSharp/Control_Statements/obj/Debug/net6.0/Control_Statements.genruntimeconfig.cache
+/media/damilare/Data/Personal-Development/C#/IntroToCSharp/Control_Statements/obj/Debug/net6.0/ref/Control_Statements.dll

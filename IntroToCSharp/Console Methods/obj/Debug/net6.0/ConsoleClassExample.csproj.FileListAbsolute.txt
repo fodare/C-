@@ -1,0 +1,30 @@
+/media/damilare/Data/Personal-Development/C#/ConsoleClassExample/bin/Debug/net6.0/ConsoleClassExample
+/media/damilare/Data/Personal-Development/C#/ConsoleClassExample/bin/Debug/net6.0/ConsoleClassExample.deps.json
+/media/damilare/Data/Personal-Development/C#/ConsoleClassExample/bin/Debug/net6.0/ConsoleClassExample.runtimeconfig.json
+/media/damilare/Data/Personal-Development/C#/ConsoleClassExample/bin/Debug/net6.0/ConsoleClassExample.dll
+/media/damilare/Data/Personal-Development/C#/ConsoleClassExample/bin/Debug/net6.0/ConsoleClassExample.pdb
+/media/damilare/Data/Personal-Development/C#/ConsoleClassExample/obj/Debug/net6.0/ConsoleClassExample.csproj.AssemblyReference.cache
+/media/damilare/Data/Personal-Development/C#/ConsoleClassExample/obj/Debug/net6.0/ConsoleClassExample.GeneratedMSBuildEditorConfig.editorconfig
+/media/damilare/Data/Personal-Development/C#/ConsoleClassExample/obj/Debug/net6.0/ConsoleClassExample.AssemblyInfoInputs.cache
+/media/damilare/Data/Personal-Development/C#/ConsoleClassExample/obj/Debug/net6.0/ConsoleClassExample.AssemblyInfo.cs
+/media/damilare/Data/Personal-Development/C#/ConsoleClassExample/obj/Debug/net6.0/ConsoleClassExample.csproj.CoreCompileInputs.cache
+/media/damilare/Data/Personal-Development/C#/ConsoleClassExample/obj/Debug/net6.0/ConsoleClassExample.dll
+/media/damilare/Data/Personal-Development/C#/ConsoleClassExample/obj/Debug/net6.0/refint/ConsoleClassExample.dll
+/media/damilare/Data/Personal-Development/C#/ConsoleClassExample/obj/Debug/net6.0/ConsoleClassExample.pdb
+/media/damilare/Data/Personal-Development/C#/ConsoleClassExample/obj/Debug/net6.0/ConsoleClassExample.genruntimeconfig.cache
+/media/damilare/Data/Personal-Development/C#/ConsoleClassExample/obj/Debug/net6.0/ref/ConsoleClassExample.dll
+/media/damilare/Data/Personal-Development/C#/IntroToCSharp/Console Methods/bin/Debug/net6.0/ConsoleClassExample
+/media/damilare/Data/Personal-Development/C#/IntroToCSharp/Console Methods/bin/Debug/net6.0/ConsoleClassExample.deps.json
+/media/damilare/Data/Personal-Development/C#/IntroToCSharp/Console Methods/bin/Debug/net6.0/ConsoleClassExample.runtimeconfig.json
+/media/damilare/Data/Personal-Development/C#/IntroToCSharp/Console Methods/bin/Debug/net6.0/ConsoleClassExample.dll
+/media/damilare/Data/Personal-Development/C#/IntroToCSharp/Console Methods/bin/Debug/net6.0/ConsoleClassExample.pdb
+/media/damilare/Data/Personal-Development/C#/IntroToCSharp/Console Methods/obj/Debug/net6.0/ConsoleClassExample.csproj.AssemblyReference.cache
+/media/damilare/Data/Personal-Development/C#/IntroToCSharp/Console Methods/obj/Debug/net6.0/ConsoleClassExample.GeneratedMSBuildEditorConfig.editorconfig
+/media/damilare/Data/Personal-Development/C#/IntroToCSharp/Console Methods/obj/Debug/net6.0/ConsoleClassExample.AssemblyInfoInputs.cache
+/media/damilare/Data/Personal-Development/C#/IntroToCSharp/Console Methods/obj/Debug/net6.0/ConsoleClassExample.AssemblyInfo.cs
+/media/damilare/Data/Personal-Development/C#/IntroToCSharp/Console Methods/obj/Debug/net6.0/ConsoleClassExample.csproj.CoreCompileInputs.cache
+/media/damilare/Data/Personal-Development/C#/IntroToCSharp/Console Methods/obj/Debug/net6.0/ConsoleClassExample.dll
+/media/damilare/Data/Personal-Development/C#/IntroToCSharp/Console Methods/obj/Debug/net6.0/refint/ConsoleClassExample.dll
+/media/damilare/Data/Personal-Development/C#/IntroToCSharp/Console Methods/obj/Debug/net6.0/ConsoleClassExample.pdb
+/media/damilare/Data/Personal-Development/C#/IntroToCSharp/Console Methods/obj/Debug/net6.0/ConsoleClassExample.genruntimeconfig.cache
+/media/damilare/Data/Personal-Development/C#/IntroToCSharp/Console Methods/obj/Debug/net6.0/ref/ConsoleClassExample.dll
