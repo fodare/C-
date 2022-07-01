@@ -89,3 +89,26 @@ Reserved words to signify type and size of variables. The most common data types
 | double   | 8 bytes        | Stores fractional numbers. Sufficient for storing 15 decimal digits.      |
 | char   | 2 bytes        | Stores a single character/letter.  |
 | string   | 2 bytes per character        | Stores a sequence of characters.      |
+
+## Type Casting ##
+
+Is when you convert or assign a value of one data type to another. There are 2 types of casting in C# namely:
+
+- Implicit casting: Converting from a smaller type to much larger type. Example is: <code>char</code> → <code>int</code> → <code>long</code> → <code>float</code> → <code>double</code>. This type of casting is done automatically.
+
+- Explicit casting: Converting a much larger type to a smaller data type. Example is: <code>double</code> → <code>float</code> → <code>long</code> → <code>int</code> → <code>char</code>. This type of casting has to be done manually by placing the target type in parentheses in front of the parent value. Example below:
+
+~~~c#
+ double amount = 9.78;
+ int finalAmount = (int)amount;
+~~~
+
+## Type Conversion Methods ##
+
+C# has built-in methods that help with type conversion. Method names are :
+
+- <code>Convert.ToBoolean</code>
+- <code>Convert.ToDouble</code>
+- <code>Convert.ToString</code>
+- <code>Convert.ToInt32</code>
+- <code>Convert.ToInt64</code>
