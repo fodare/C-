@@ -112,3 +112,7 @@ C# has built-in methods that help with type conversion. Method names are :
 - <code>Convert.ToString</code>
 - <code>Convert.ToInt32</code>
 - <code>Convert.ToInt64</code>
+
+## User Input ##
+
+To receive uses inputs to a program, you can use the <code>ReadLine()</code> method from the Console class. The methods accept values entered by users and by default store them in string type, so you have to explicitly convert values to target data type
