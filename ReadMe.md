@@ -44,3 +44,35 @@ Console.Write("Hello World!");
 ~~~
 
 The difference between the two is that, <code>WritLine()</code> method prints values in a new line while <code>Write()</code> method print values on the same line.
+
+## Variables ##
+
+They are containers created in the computer memory to help hold temporary data. In C# there are various types of variables, but common ones are :
+
+- <code>Int</code> signifies numerical values without decimal places or point. Example 123, -123, 10 ...
+
+- <code>double</code> signifies numerical values with floating points. Example is 10.99, 12.00, 30.01…
+
+- <code>char</code> signifies a single word or character. Example 'A', 'b'...
+
+- <code>string</code> signifies text. Different from <code>char</code> as it's more that just a single character. Example "This is a string".
+
+- <code>bool</code> signifies a "true" or "false" value.
+
+### Syntax ##
+
+~~~c#
+type variableName = value;
+~~~
+
+## Identifiers ##
+
+These are unique names to help give name to variables. Identifiers can be short names (like x and y) or more descriptive names (age, sum, totalVolume).
+
+General rule for naming variables are:
+
+- Can contain letters, digits and underscore(_).
+- Must begin with a letter.
+- Starts with lowercase word and no white spaces.
+- Names are case-sensitive.
+- Must not contain c# reserved words.
