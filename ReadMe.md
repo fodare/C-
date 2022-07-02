@@ -116,3 +116,13 @@ C# has built-in methods that help with type conversion. Method names are :
 ## User Input ##
 
 To receive uses inputs to a program, you can use the <code>ReadLine()</code> method from the Console class. The methods accept values entered by users and by default store them in string type, so you have to explicitly convert values to target data type
+
+## Math functions ##
+
+C# does have some built-in math methods from Math class to help perform math functions. Sample methods are:
+
+- <code>Max</code> used to find the highest value of two numerical values.
+- <code>Min</code> used to find the lowest value of two numerical values.
+- <code>Sqrt</code> Find square root of a numerical value.
+- <code>Abs</code> help returns absolute positive value of a numerical value.
+- <code>Round</code> Helps round up a number to the nearest whole number.
