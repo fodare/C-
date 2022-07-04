@@ -126,3 +126,16 @@ C# does have some built-in math methods from Math class to help perform math fun
 - <code>Sqrt</code> Find square root of a numerical value.
 - <code>Abs</code> help returns absolute positive value of a numerical value.
 - <code>Round</code> Helps round up a number to the nearest whole number.
+
+## Conditions and If statements ##
+
+C# does support some basic math logical conditional comparisons, and they can be used for actions to help make decisions in a program. C# supports following conditional statements.
+
+- <code>if</code> determine a block of code to be executed if a specified condition is true.
+- <code>else</code> determine a block of code to be executed if the same condition is false.
+- <code>else if</code> determine a block of code to be executed if the first condition is false.
+- <code>switch</code> specifies many alternative code block to be executed depending on an outcome.
+
+C# also support ternary Operator to help shorten <code>if..else</code> statement and below is its syntax:
+
+<code>variable = (condition) ? expressionTrue :  expressionFalse;</code>
