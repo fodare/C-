@@ -139,3 +139,21 @@ C# does support some basic math logical conditional comparisons, and they can be
 C# also support ternary Operator to help shorten <code>if..else</code> statement and below is its syntax:
 
 <code>variable = (condition) ? expressionTrue :  expressionFalse;</code>
+
+## Switch Statement ##
+
+The switch statement can be used to help select a block of code to be executed when there'e more multiple results expected from an expression evaluation. Example below:
+
+```c#
+ int day = 4;
+ switch (day)
+ {
+     case 1: Console.WriteLine("Day is Monday!"); break;
+     case 2: Console.WriteLine("Day is Tuesday!"); break;
+     case 3: Console.WriteLine("Day is Wednesday!"); break;
+     case 4: Console.WriteLine("Day is Thursday!"); break;
+     case 5: Console.WriteLine("Day is Friday!"); break;
+     case 6: Console.WriteLine("Day is Saturday!"); break;
+     case 7: Console.WriteLine("Day is Sunday!"); break;
+ }
+```
