@@ -157,3 +157,26 @@ The switch statement can be used to help select a block of code to be executed w
      case 7: Console.WriteLine("Day is Sunday!"); break;
  }
 ```
+
+## While and Do while loop ##
+
+Loops are generally used to execute a block of code repeatedly as long as certain condition is true. Basic syntax below.
+
+```c#
+while (condition) 
+{
+  // code block to be executed
+}
+```
+
+## Do while Loop ##
+
+The do while loop is a type of looping statement that would execute a block of code once before evaluating the result of a condition. If the condition returns true then the do block is executed again until the condition return false. Basic syntax below:
+
+```c#
+do 
+{
+  // code block to be executed
+}
+while (condition);
+```
