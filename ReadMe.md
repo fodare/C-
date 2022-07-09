@@ -171,7 +171,7 @@ while (condition)
 
 ## Do while Loop ##
 
-The do while loop is a type of looping statement that would execute a block of code once before evaluating the result of a condition. If the condition returns true then the do block is executed again until the condition return false. Basic syntax below:
+The do while loop is a type of looping statement that would execute a block of code once before evaluating the result of a condition.If the condition returns true then the do block is executed again until the condition return false. Basic syntax below:
 
 ```c#
 do 
@@ -179,4 +179,32 @@ do
   // code block to be executed
 }
 while (condition);
+```
+
+## C# For loop ##
+
+<code>For</code> loop can be used to check a condition repeatedly if the number of iteration is known. Syntax below:
+
+```c#
+for (statement 1; statement 2; statement 3) 
+{
+  // code block to be executed
+}
+```
+
+Another variant of the <code>for</code> loop is the <code>foreach</code> loop. It's used to loop through elements of an array, syntax below:
+
+```c#
+foreach (type variableName in arrayName) 
+{
+  // code block to be executed
+}
+```
+
+## C# Arrays ##
+
+Arrays are used to store multiple values in a variable instead of declaring them individually. Syntax of declearing an array below:
+
+```c#
+type[] arrayName = {"vlaue1", "vlaue2", "vlaue3", "valuen..."};
 ```
