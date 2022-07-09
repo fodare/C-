@@ -208,3 +208,22 @@ Arrays are used to store multiple values in a variable instead of declaring them
 ```c#
 type[] arrayName = {"vlaue1", "vlaue2", "vlaue3", "valuen..."};
 ```
+
+To access elements within an array, Note index of an array starts from 0. Example below:
+
+```c#
+string[] favouriteNames = { "Larry", "Garry", "Barry", "Karry" };
+string newName = favouriteNames[2];
+Console.WriteLine(newName); // Outout would be Barry
+```
+
+To change or modify an element of an array, refer to it's index and assign the new value. Example below:
+
+```c#
+string[] favouriteNames = { "Larry", "Garry", "Barry", "Karry" };
+string newName = favouriteNames[2];
+Console.WriteLine(newName); // Outout would be 
+newName = "Damilare";
+favouriteNames[2] = newName;
+Console.WriteLine(favouriteNames[2]);
+```
