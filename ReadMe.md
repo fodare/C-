@@ -227,3 +227,62 @@ newName = "Damilare";
 favouriteNames[2] = newName;
 Console.WriteLine(favouriteNames[2]);
 ```
+
+## Methods ##
+
+A method is a block of code executed only when it's called. Used to perform certain actions and also known as functions.
+Syntax:
+
+```c#
+class Program
+{
+  static void MyMethod() 
+  {
+    // code to be executed
+  }
+}
+```
+
+Methods can be called(executed) by providing the method name with parenthesis *()*. You can also pass in arguments to the method as they are treated as variables in the method, example below.
+
+```c#
+static void NameCars(string[] carNames)
+{
+    foreach (string car in carNames)
+    {
+        Console.WriteLine(car);
+    }
+}
+static void Main(string[] args)
+{
+    Greetings();
+    NameCars(new string[] { "Volvo", "BMW", "Ford", "Mazda" });
+}
+```
+
+## Method Overloading ##
+
+Creating multiple methods with the same name but different parameters. Used to perform the same type of operation depending on input types, example below.
+
+```C#
+class Program
+  {
+    static int PlusMethod(int x, int y)
+    {
+      return x + y;
+    }
+
+    static double PlusMethod(double x, double y)
+    {
+      return x + y;
+    }
+
+    static void Main(string[] args)
+    {
+      int myNum1 = PlusMethod(8, 5);
+      double myNum2 = PlusMethod(4.3, 6.26);
+      Console.WriteLine("Int: " + myNum1);
+      Console.WriteLine("Double: " + myNum2);
+    }  
+  }
+```
