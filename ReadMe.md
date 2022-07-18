@@ -286,3 +286,11 @@ class Program
     }  
   }
 ```
+
+## Object-Oriented Programming ##
+
+Is a process of creating objects that contains both data and methods. Classes and Objects are the two main aspects of Object-Oriented Programming. A class is a template of an object and an object is an instance of class.
+
+## Constructors ##
+
+Is a special method that is used to initialize an object. The advantage of a constructor is that it's called when an object is created.
